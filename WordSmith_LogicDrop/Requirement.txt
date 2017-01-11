@@ -1,0 +1,10 @@
+Word Smith 
+
+Return the result of "word",  "smith",  or "wordsmith" depending on the input.
+Return "word" if the number is dividable by 3
+
+Return "smith" if the number is dividable by 5
+
+Return "wordsmith" if the number is dividable by 15
+
+Return the same number if no other requirement is met.
